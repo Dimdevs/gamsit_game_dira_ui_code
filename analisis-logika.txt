@@ -1,0 +1,4 @@
+1. layout web
+2. function & class
+3. eksekusi class & function
+4. DOM result
